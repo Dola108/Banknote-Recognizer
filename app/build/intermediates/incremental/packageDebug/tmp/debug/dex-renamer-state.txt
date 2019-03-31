@@ -1,0 +1,4 @@
+#Sun Mar 31 12:56:32 BDT 2019
+base.0=F\:\\fmtjdt\\ANDROID\\Banknote Recognizer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

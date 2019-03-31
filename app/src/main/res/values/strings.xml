@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Ocr dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Ocr Detector Sample</string>
+    <string name="ocr_header">Click &quot;Detect Text&quot; to detect text</string>
+    <string name="read_text">Detect Text</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="ocr_success">Text read successfully</string>
+    <string name="ocr_failure">No text captured</string>
+    <string name="ocr_error">"Error reading text: %1$s"</string>
+    <string name="email_shamimur052_gmail_com">Email: shamimur052@gmail.com</string>
+    <string name="khulna_university_of_engineerign_amp_technology"><![CDATA[Khulna University of Engineerign & Technology]]></string>
+    <string name="lecturer">Lecturer</string>
+    <string name="md_shamimur_rahman">Md. Shamimur Rahman</string>
+    <string name="under_supervision_of">Under supervision of:</string>
+    <string name="email_dola291_gmail_com">Email: dola291@gmail.com</string>
+    <string name="aparajita_dola">Aparajita Dola</string>
+    <string name="email">Email:</string>
+    <string name="md_rezaul_houqe">Md. Rezaul Houqe</string>
+    <string name="developers">Developers:</string>
+    <string name="detect_banknote">Detect Banknote</string>
+    <string name="select_from_gallery">Select From Gallery</string>
+    <string name="info">Info</string>
+    <string name="email_rezaulhsagar_gmail_com">Email: rezaulhsagar@gmail.com</string>
+    <string name="select_camera_options">Select Camera Options</string>
+    <string name="extract_banknote_info">Extract Banknote Info</string>
+    <string name="verify_banknote">Verify Banknote</string>
+    <string name="verify">Verify</string>
+    <string name="value">Value</string>
+    <string name="result">Result</string>
+    <string name="select">Select</string>
+    <string name="banknote">Banknote</string>
+    <string name="capture_image">Capture Image</string>
+</resources>
