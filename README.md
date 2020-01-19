@@ -1,2 +1,2 @@
-# OCR-Ultimate
-OCR Ultimate is an OCR app for android devices. It can detect text from a image in Real time as well as from captured image.
+# Banknote Recognizer
+This app can detect texts from currency notes in real time and detect which country the note is from. The project works only on Bangladeshi banknotes but will also work on those of different countries if the images of those are provided in the dataset.
